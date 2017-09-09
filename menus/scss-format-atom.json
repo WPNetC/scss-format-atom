@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle scss-format-atom",
+        "command": "scss-format-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "scss-format-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "scss-format-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

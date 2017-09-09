@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "scss-format-atom:toggle"
+  }
+}
